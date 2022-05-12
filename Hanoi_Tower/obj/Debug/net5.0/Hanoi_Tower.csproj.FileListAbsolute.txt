@@ -1,0 +1,16 @@
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\bin\Debug\net5.0\Hanoi_Tower.exe
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\bin\Debug\net5.0\Hanoi_Tower.deps.json
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\bin\Debug\net5.0\Hanoi_Tower.runtimeconfig.json
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\bin\Debug\net5.0\Hanoi_Tower.runtimeconfig.dev.json
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\bin\Debug\net5.0\Hanoi_Tower.dll
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\bin\Debug\net5.0\ref\Hanoi_Tower.dll
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\bin\Debug\net5.0\Hanoi_Tower.pdb
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\Hanoi_Tower.csproj.AssemblyReference.cache
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\Hanoi_Tower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\Hanoi_Tower.AssemblyInfoInputs.cache
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\Hanoi_Tower.AssemblyInfo.cs
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\Hanoi_Tower.csproj.CoreCompileInputs.cache
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\Hanoi_Tower.dll
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\ref\Hanoi_Tower.dll
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\Hanoi_Tower.pdb
+C:\Users\julio_ku8taem\Desktop\Hanoi_Tower\obj\Debug\net5.0\Hanoi_Tower.genruntimeconfig.cache
